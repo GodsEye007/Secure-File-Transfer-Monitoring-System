@@ -1,0 +1,43 @@
+SECURE FILE TRANSFER MONITORING SYSTEM
+FINAL AUDIT REPORT
+
+Date: 03-01-2026
+System: Kali Linux
+Tool Used: Python File Monitoring Script
+
+------------------------------------
+SUMMARY OF ACTIVITY
+------------------------------------
+
+Total File Events Monitored: 15
+Normal File Events: 7
+Sensitive File Events Detected: 8
+Unauthorized Sensitive Access: YES
+Integrity Changes Detected: YES
+
+------------------------------------
+ALERT DETAILS
+------------------------------------
+
+- Sensitive file 'secret.txt' was modified.
+- Multiple hash changes detected indicating file modification.
+- Activity suggests possible unauthorized access.
+
+------------------------------------
+SECURITY ANALYSIS
+------------------------------------
+
+The monitoring system successfully detected sensitive file activity.
+Hash-based integrity verification confirmed file modifications.
+Alerts were generated in real-time.
+
+------------------------------------
+CONCLUSION
+------------------------------------
+
+The Secure File Transfer Monitoring System effectively identified
+unauthorized file movement and integrity violations.
+This improves defensive monitoring and data loss prevention.
+
+------------------------------------
+END OF REPORT

@@ -1,0 +1,16 @@
+
+[2026-01-03 06:04:42] CREATED - /home/kali/SecureMonitor/sensitive/secret.txt | HASH: 130aaa4e563179fbc4ce0afcea8396e1ff3a568866b61a113010c8aad0efa659 ⚠️ ALERT: Sensitive file activity detected!
+[2026-01-03 06:04:42] MODIFIED - /home/kali/SecureMonitor/sensitive/secret.txt | HASH: 130aaa4e563179fbc4ce0afcea8396e1ff3a568866b61a113010c8aad0efa659 ⚠️ ALERT: Sensitive file activity detected!
+[2026-01-03 06:05:21] MODIFIED - /home/kali/SecureMonitor/sensitive/secret.txt | HASH: 4e20620845428ff04bf87ab5bb24c4627121ac45703ebc32f3b7099f017566ef ⚠️ ALERT: Sensitive file activity detected!
+[2026-01-03 06:05:33] DELETED - /home/kali/SecureMonitor/sensitive/secret.txt | HASH: N/A ⚠️ ALERT: Sensitive file activity detected!
+[2026-01-03 06:06:06] CREATED - /home/kali/SecureMonitor/sensitive/secret.txt | HASH: f2ca1bb6c7e907d06dafe4687e579fce76b37e4e93b7605022da52e6ccc26fd2 ⚠️ ALERT: Sensitive file activity detected!
+[2026-01-03 06:06:06] MODIFIED - /home/kali/SecureMonitor/sensitive/secret.txt | HASH: f2ca1bb6c7e907d06dafe4687e579fce76b37e4e93b7605022da52e6ccc26fd2 ⚠️ ALERT: Sensitive file activity detected!
+[2026-01-03 06:22:45] CREATED - /home/kali/SecureMonitor/monitored/test1.txt | HASH: e258d248fda94c63753607f7c4494ee0fcbe92f1a76bfdac795c9d84101eb317 
+[2026-01-03 06:22:45] MODIFIED - /home/kali/SecureMonitor/monitored/test1.txt | HASH: e258d248fda94c63753607f7c4494ee0fcbe92f1a76bfdac795c9d84101eb317 
+[2026-01-03 06:22:45] DELETED - /home/kali/SecureMonitor/monitored/test1.txt | HASH: N/A 
+[2026-01-03 06:23:19] CREATED - /home/kali/SecureMonitor/monitored/test1.txt | HASH: 4a1e67f2fe1d1cc7b31d0ca2ec441da4778203a036a77da10344c85e24ff0f92 
+[2026-01-03 06:23:19] MODIFIED - /home/kali/SecureMonitor/monitored/test1.txt | HASH: 4a1e67f2fe1d1cc7b31d0ca2ec441da4778203a036a77da10344c85e24ff0f92 
+[2026-01-03 06:23:19] MODIFIED - /home/kali/SecureMonitor/monitored/test1.txt | HASH: 4a1e67f2fe1d1cc7b31d0ca2ec441da4778203a036a77da10344c85e24ff0f92 
+[2026-01-03 06:23:19] DELETED - /home/kali/SecureMonitor/monitored/test1.txt | HASH: N/A 
+[2026-01-03 06:23:59] MODIFIED - /home/kali/SecureMonitor/sensitive/secret.txt | HASH: 8d708e6df7a19162f50c6a75f6109571224aae0f772d171ac6809aba06854274 ⚠️ ALERT: Sensitive file activity detected!
+[2026-01-03 06:23:59] MODIFIED - /home/kali/SecureMonitor/sensitive/secret.txt | HASH: 8d708e6df7a19162f50c6a75f6109571224aae0f772d171ac6809aba06854274 ⚠️ ALERT: Sensitive file activity detected!
